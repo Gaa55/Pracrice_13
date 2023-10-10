@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pracrice13</string>
+    <string name="doll">Введите курс обмена </string>
+    <string name="sum">Введите сумму</string>
+    <string name="convert">Конвертировать</string>
+    <string name="result">Результат:</string>
+    <string name="sumabax">сумма в доллларах</string>
+    <string name="dol_rub">1 USD=RUB</string>
+    <string name="KatA">Введите катет А</string>
+    <string name="KatB">Введите катет В</string>
+
+</resources>
